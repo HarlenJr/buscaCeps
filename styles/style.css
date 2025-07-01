@@ -1,0 +1,61 @@
+*{
+ 
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    align-content: center;
+    text-align: center;
+    color: rgb(214, 184, 184);
+    padding: 0 auto;
+    margin: 0 auto;
+    background-color: rgb(7, 75, 151);
+    height: 12vh;
+    box-shadow: 0px 10px 5px 
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35vh;
+}
+input{
+    font-size: 14px;
+    border-radius: 5px;
+    text-align: center;
+    height: 5vh;
+    width: 34vh;
+}
+section{
+    height: 93vh;
+}
+footer{
+    box-shadow: 0px 10px 5px 10px;
+    align-content: center;
+    text-align: center;
+    color: rgb(214, 184, 184);
+    height: 9vh;
+    background-color:  rgb(7, 75, 151);
+}
+button{
+    justify-content: center;
+    font-size: large;
+    border-radius: 5px;
+    height: 5vh;
+    width: 6vh;
+    background-color: rgb(7, 75, 151);
+    
+}
+img{
+    height: 4vh;
+    width: 4vh;
+}
+.dados{
+    height: 50vh;
+    width: 100%;
+}
+fieldset{
+    height: 50vh;
+    width: 70vh;
+    border-radius: 5px;
+}
